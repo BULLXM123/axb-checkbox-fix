@@ -3,9 +3,9 @@
 #### 增加num参数，为限制的选中数量，默认为1  
 ```javascript
   num:{
-				type:Number,
-				default:1
-			}
+	type:Number,
+	default:1
+}
 ```
 #### 超过限制发送事件  
 ```javascript
