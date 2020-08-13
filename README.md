@@ -1,5 +1,6 @@
 # axb-checkbox-fix
 针对DCloud插件checkbox的修改，原本只有单选或全选，现加入选中数量限制  
+# axb-checkbox-item.vue
 #### 增加num参数，为限制的选中数量，默认为1  
 ```javascript
   num:{
